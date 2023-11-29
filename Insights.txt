@@ -1,0 +1,26 @@
+Key Metrics
+1. Total Revenue = $56.25M
+2. Total Profit = $32.45M
+3. Total Cost = $23.80M
+4. Total Products = 1690
+5. Total Order = 15K
+6. Total Units Sold = 251K
+
+Insights:
+1. Sales and profits are consistent all year round but there is a common dip in December in all years. which needs to be addressed.
+
+2. Weekly sales trend is also stable all year round but theres also a dip in the last weeks of the year
+
+3. Top products by means of revenue is Contoso Projector 1080p X980 Black with a total Revenue of $452,115
+
+4. Top products by means of order quantity is Contoso In-Line Coupler E180 Silver with a total order quantity of 6,780 units
+
+5. Top Brand by Revenue is Fabrikam with a revenue of $12M
+
+6. Top Category by Revenue is Computers with a revenue of $22M
+
+7. Store sales are the most dominant sales channels across all channels with a massive portion of 57.23% share.
+
+8. 67.42% of our sales come from seasonal discounts
+
+9. Top state by sales is Kebbi with a massive revenue of $1.8 M
